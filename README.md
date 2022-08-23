@@ -4,6 +4,8 @@ Lab information for 431 in Fall 2022
 - All necessary data and templates for Labs this semester can be downloaded by following the instructions at [our 431-data page](https://github.com/THOMASELOVE/431-data) or via the links provided below.
 - All Lab deadlines are provided in the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html).
 
+# Prior to Each Lab's Deadline
+
 ## Labs Not Yet Completed
 
 | Lab | Instructions (pdf) | Data for Download | Template |
@@ -28,7 +30,7 @@ Your response to **every** question, whether we explicitly ask for it or not, sh
 
 Each set of Lab instructions provides details on how to submit your work. Mostly, this is done through the Assignments folder in [Canvas](https://canvas.case.edu/), but check the instructions.
 
-# After The Lab is Submitted
+# After The Lab Deadline Has Passed
 
 ## Grading
 
@@ -51,7 +53,7 @@ As each Lab passes its deadline (as listed in the [Course Calendar](https://thom
 - Labs turned in more than 12 but less than 72 hours after the deadline will lose 25% of available points.
 - No extensions to Lab deadlines will be permitted this semester. Labs turned in more than 72 hours after the deadline will receive no credit.
 
-## Grading Errors and Regrade Requests
+## Lab Regrade Requests will be reviewed in December
 
 The [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) will soon be available. This is how we handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. The Form is used for all other regrade situations.
 
