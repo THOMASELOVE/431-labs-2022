@@ -1,6 +1,47 @@
 431 Lab 01
 ================
-Due **2022-09-12** at 9 PM \| Last Edited 2022-08-23 11:50:07
+Due **2022-09-12** at 9 PM \| Last Edited 2022-08-23 12:20:54
+
+-   <a href="#deadline" id="toc-deadline">Deadline</a>
+    -   <a href="#late-penalties-for-lab-work"
+        id="toc-late-penalties-for-lab-work">Late Penalties for Lab Work</a>
+-   <a href="#getting-help" id="toc-getting-help">Getting Help</a>
+-   <a href="#loading-packages" id="toc-loading-packages">Loading
+    Packages</a>
+-   <a href="#learning-objectives" id="toc-learning-objectives">Learning
+    Objectives</a>
+-   <a href="#question-1." id="toc-question-1.">Question 1.</a>
+    -   <a
+        href="#make-a-30-second-video-to-help-us-pronounce-your-name-and-learn-something-interesting-about-you"
+        id="toc-make-a-30-second-video-to-help-us-pronounce-your-name-and-learn-something-interesting-about-you">Make
+        a 30-second video to help us pronounce your name and learn something
+        interesting about you</a>
+    -   <a href="#you-will-be-doing-two-things-in-the-video"
+        id="toc-you-will-be-doing-two-things-in-the-video">You will be doing two
+        things in the video:</a>
+        -   <a href="#some-tips-for-the-video" id="toc-some-tips-for-the-video">Some
+            tips for the video…</a>
+-   <a href="#question-2." id="toc-question-2.">Question 2.</a>
+    -   <a href="#interpret-visualizations-built-using-r"
+        id="toc-interpret-visualizations-built-using-r">Interpret Visualizations
+        Built using R</a>
+    -   <a href="#code-for-plot-a" id="toc-code-for-plot-a">Code for Plot A</a>
+    -   <a href="#code-for-plot-b" id="toc-code-for-plot-b">Code for Plot B</a>
+    -   <a
+        href="#code-to-combine-plots-a-and-b-into-one-figure-and-display-the-result"
+        id="toc-code-to-combine-plots-a-and-b-into-one-figure-and-display-the-result">Code
+        to combine Plots A and B into one Figure and display the result</a>
+-   <a href="#question-3." id="toc-question-3.">Question 3.</a>
+    -   <a href="#react-to-the-introduction-of-the-art-of-statistics"
+        id="toc-react-to-the-introduction-of-the-art-of-statistics">React to the
+        Introduction of <em>The Art of Statistics</em></a>
+-   <a href="#question-4." id="toc-question-4.">Question 4.</a>
+    -   <a href="#connecting-spiegelhalter-to-question-2"
+        id="toc-connecting-spiegelhalter-to-question-2">Connecting Spiegelhalter
+        to Question 2</a>
+-   <a href="#submitting-the-lab" id="toc-submitting-the-lab">Submitting the
+    Lab</a>
+-   <a href="#grading" id="toc-grading">Grading</a>
 
 ## Deadline
 
@@ -86,6 +127,8 @@ resulting video should ideally be sent to us as an **.mp4** file.
 -   We’re not kidding about the 30-second time limit. Please don’t let
     your video exceed 30 seconds.
 
+
+
 # Question 2.
 
 ## Interpret Visualizations Built using R
@@ -139,7 +182,7 @@ plotA / plotB +
         title = "Question 2. Association of `density` and `conc` in the `DNase` data")
 ```
 
-![](lab01_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->
+![](lab01_files/figure-gfm/unnamed-chunk-4-1.png)
 
 # Question 3.
 
