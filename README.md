@@ -16,6 +16,29 @@ Lab information for 431 in Fall 2022
 | 06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | [lab05_lind.Rds](https://github.com/THOMASELOVE/431-data/raw/main/lab05_lind.Rds) | -- |
 | 07 | [Lab 07 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) | [lab07_trial.xls](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/lab07_trial.xls) | -- |
 
+## Getting Help During The Lab
+
+You are welcome to discuss each Lab with Professor Love, the teaching assistants or your colleagues, but your answer must be prepared by you alone. Don't be afraid to ask questions, using any of the methods described on our [Contact Us](https://thomaselove.github.io/431-2022/contact.html) page.
+
+## An Important Note
+
+Your response to **every** question, whether we explicitly ask for it or not, should include a complete English sentence responding to the question. Code alone is not a sufficient response, even if the code is correct. Some responses might not need any code, but every response needs at least one complete sentence.
+
+## Submitting Your Work
+
+Each set of Lab instructions provides details on how to submit your work. Mostly, this is done through the Assignments folder in [Canvas](https://canvas.case.edu/), but check the instructions.
+
+# After The Lab is Submitted
+
+## Grading
+
+Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the deadline for each Lab. 
+
+**Grades on Labs** (and our records about minute papers) will be found in the [Course Grading Roster](https://bit.ly/431-2021-grades) that will appear in September.
+
+- You'll need to log into Google via CWRU to see your scores and the comments left there by the Teaching Assistants. 
+- Your **Lab Code** identifies you in the roster. You will receive your Lab Code via email from Dr. Love in September. (The email's subject will be 431 Lab Code.) 
+
 ## Answer Sketches and Grading Rubrics
 
 As each Lab passes its deadline (as listed in the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html)), we will move it here, and add information on how you can obtain the answer sketch (usually available within 24 hours of the deadline), as well as grades and the grading rubric (usually available one week after the deadline.)
@@ -28,15 +51,11 @@ As each Lab passes its deadline (as listed in the [Course Calendar](https://thom
 - Labs turned in more than 12 but less than 72 hours after the deadline will lose 25% of available points.
 - No extensions to Lab deadlines will be permitted this semester. Labs turned in more than 72 hours after the deadline will receive no credit.
 
-## An Important Note
+## Grading Errors and Regrade Requests
 
-Your response to **every** question, whether we explicitly ask for it or not, should include a complete English sentence responding to the question. Code alone is not a sufficient response, even if the code is correct. Some responses might not need any code, but every response needs at least one complete sentence.
+The [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) will soon be available. This is how we handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. The Form is used for all other regrade situations.
 
-## Submitting Your Work
-
-Each set of Lab instructions provides details on how to submit your work. Mostly, this is done through the Assignments folder in [Canvas](https://canvas.case.edu/), but check the instructions.
-
-## Getting Help
-
-You are welcome to discuss Lab 01 with Professor Love, the teaching assistants or your colleagues, but your answer must be prepared by you alone. Don't be afraid to ask questions, using any of the methods described on our [Contact Us](https://thomaselove.github.io/431-2022/contact.html) page.
+- Essentially, if you want Dr. Love to review your grade on one (or more) of our Labs, fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) anytime before 2022-12-12 at noon, as specified on the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html). 
+- Shortly after December 10, when all course work has been graded, Dr. Love will open the form. If you have requested additional points that could change your course grade, he'll review your request. If not, then he won't. 
+- Visit [this section of the Syllabus](https://thomaselove.github.io/431-syllabus-2022/course-grades.html#lab-appeal-policy---request-a-review-via-google-form) for more details on this policy.
 
