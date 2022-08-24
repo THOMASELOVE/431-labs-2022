@@ -65,7 +65,7 @@ As each Lab passes its deadline (as listed in the [Course Calendar](https://thom
 
 ## Lab Regrade Requests will be reviewed in December
 
-The [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) will soon be available. This is how we handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. The Form is used for all other regrade situations.
+The [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) is available now. This is how we handle almost all grading errors and regrade requests on Labs. The only exception to this policy is when you believe we've made an arithmetic error in summing up your points on a lab. If that happens, just email Dr. Love to get it straightened out. The Form is used for all other regrade situations.
 
 - Essentially, if you want Dr. Love to review your grade on one (or more) of our Labs, fill out the [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) anytime before 2022-12-12 at noon, as specified on the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html). 
 - Shortly after December 10, when all course work has been graded, Dr. Love will open the form. If you have requested additional points that could change your course grade, he'll review your request. If not, then he won't. 
