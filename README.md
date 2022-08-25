@@ -46,12 +46,12 @@ Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will b
 | Lab | Instructions (pdf) | Answer Sketch | Grading Rubric | Grades
 | :---: | :---: | :---: | :---: | :---: |
 | 01 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab01.pdf) | not yet available | not yet available | not yet available |
-| 02 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) | not yet available | not yet available | not yet available |
-| 03 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf) | not yet available | not yet available | not yet available |
-| 04 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab04.pdf) | not yet available | not yet available | not yet available |
-| 05 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab05.pdf) | not yet available | not yet available | not yet available |
-| 06 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | not yet available | not yet available | not yet available |
-| 07 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) | not yet available | not yet available | not yet available |
+| 02 | [Lab 02 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) | not yet available | not yet available | not yet available |
+| 03 | [Lab 03 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf) | not yet available | not yet available | not yet available |
+| 04 | [Lab 04 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab04.pdf) | not yet available | not yet available | not yet available |
+| 05 | [Lab 05 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab05.pdf) | not yet available | not yet available | not yet available |
+| 06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | not yet available | not yet available | not yet available |
+| 07 | [Lab 07 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) | not yet available | not yet available | not yet available |
 
 As each Lab passes its deadline (as listed in the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html)), we will add information here on how you can obtain the answer sketch (usually available within 24 hours of the deadline), as well as grades and the grading rubric (usually available one week after the deadline.)
 
