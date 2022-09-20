@@ -33,7 +33,7 @@ Each set of Lab instructions provides details on how to submit your work. Mostly
 
 ## Grading
 
-Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the deadline for each Lab. 
+Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the Lab deadline. 
 
 **Grades on Labs** (and our records about minute papers) appear as they become available in the [431 Grades Roster](https://bit.ly/431-grades-2022).
 
