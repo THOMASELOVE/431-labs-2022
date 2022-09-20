@@ -35,16 +35,17 @@ Each set of Lab instructions provides details on how to submit your work. Mostly
 
 Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will be available approximately one week after the deadline for each Lab. 
 
-**Grades on Labs** (and our records about minute papers) will be available starting in September.
+**Grades on Labs** (and our records about minute papers) appear as they become available in the [431 Grades Roster](https://bit.ly/431-grades-2022).
 
 - You'll need to log into Google via CWRU to see your scores and the comments left there by the Teaching Assistants. 
-- Your **Lab Code** identifies you in the roster. You will receive your Lab Code via email from Dr. Love in September. (The email's subject will be 431 Lab Code.) 
+- Your **Lab Code** identifies you in [the Grades Roster](https://bit.ly/431-grades-2022). 
+- Dr. Love emailed you your Lab Code on 2022-09-20. (The email's subject was 431 Lab Code.) 
 
 ## Answer Sketches and Grading Rubrics
 
 | Lab | Instructions (pdf) | Answer Sketch | Grading Rubric | Grades
 | :---: | :---: | :---: | :---: | :---: |
-| 01 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab01.pdf) | posted to Shared Google Drive | posted to Shared Google Drive | not yet available |
+| 01 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab01.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
 | 02 | [Lab 02 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) | not yet available | not yet available | not yet available |
 | 03 | [Lab 03 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf) | not yet available | not yet available | not yet available |
 | 04 | [Lab 04 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab04.pdf) | not yet available | not yet available | not yet available |
