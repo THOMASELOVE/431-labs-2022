@@ -70,4 +70,11 @@ The [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) is 
 - Shortly after December 10, when all course work has been graded, Dr. Love will open the form. If you have requested additional points that could change your course grade, he'll review your request. If not, then he won't. 
 - Visit [this section of the Syllabus](https://thomaselove.github.io/431-syllabus-2022/course-grades.html#lab-appeal-policy---request-a-review-via-google-form) for more details on this policy.
 
+## Completed Labs
+
+| Lab | Instructions (pdf) | Data for Download | Template |
+| :---: | :---: | :---: | :---: |
+01 | Lab 01 Instructions | -- | --
+02 | Lab 02 Instructions | lab02_counties.csv | Lab 02 Template |
+
 [Click here](https://thomaselove.github.io/431-2022/) to return to the main website for the course.
