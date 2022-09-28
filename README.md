@@ -75,6 +75,6 @@ The [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) is 
 | Lab | Instructions (pdf) | Data for Download | Template |
 | :---: | :---: | :---: | :---: |
 01 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab01.pdf) | -- | --
-02 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) | [lab02_counties.csv](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/lab02_counties.csv) | [Lab 02 Template](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/YOURNAME-lab02.Rmd) |
+02 | [Lab 02 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) | [lab02_counties.csv](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/lab02_counties.csv) | [Lab 02 Template](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/YOURNAME-lab02.Rmd) |
 
 [Click here](https://thomaselove.github.io/431-2022/) to return to the main website for the course.
