@@ -1,6 +1,6 @@
 431 Lab X
 ================
-Deadline: See Course Calendar \| Last Edited 2022-10-18 08:50:19
+Deadline: See Course Calendar \| Last Edited 2022-10-18 08:53:34
 
 -   <a href="#background" id="toc-background">Background</a>
 -   <a href="#instructions-and-guidance"
@@ -88,7 +88,7 @@ what can be done…
 
 ## Built in Other Ways
 
-Owlstown: ([Ben Kramer](https://bptkramer.owlstown.net//), [Carly
+Owlstown: [Ben Kramer](https://bptkramer.owlstown.net//), [Carly
 Rose](https://cxr367.owlstown.net/)
 
 Hosted at Google: [Megan
@@ -105,3 +105,7 @@ WordPress sites: [Allison Bode](https://allisonrbode.wordpress.com/)
 Submit a link to your website to Dr. Love in an email with the subject
 line **My Website** by the deadline specified in [the Course
 Calendar](https://thomaselove.github.io/431-2022/calendar.html).
+
+All students completing Lab X successfully (Dr. Love has to be able to
+open your website and read its contents) will receive a substantial
+boost to their Class Participation Grade.
