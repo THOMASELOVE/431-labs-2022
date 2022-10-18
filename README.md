@@ -17,6 +17,10 @@ Lab information for 431 in Fall 2022
 
 - In case you need them, here are the [Lab 02 Template](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/YOURNAME-lab02.Rmd) and the [Lab 03 Template](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/YOURNAME-lab03.Rmd).
 
+## Bonus Lab
+
+[Lab X](labX.md) instructions are now available, and the deadline is posted to the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html). Successful completion of Lab X will lead to a substantial boost to your course participation grade.
+
 ## Getting Help During The Lab
 
 You are welcome to discuss each Lab with Professor Love, the teaching assistants or your colleagues, but your answer must be prepared by you alone. Don't be afraid to ask questions, using any of the methods described on our [Contact Us](https://thomaselove.github.io/431-2022/contact.html) page.
