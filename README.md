@@ -51,7 +51,7 @@ Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will b
 | 01 | [Lab 01 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab01.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
 | 02 | [Lab 02 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab02.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
 | 03 | [Lab 03 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
-| 04 | [Lab 04 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab04.pdf) | see Shared Google Drive | see Shared Google Drive | not yet available |
+| 04 | [Lab 04 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab04.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
 | 05 | [Lab 05 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab05.pdf) | not yet available | not yet available | not yet available |
 | 06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | not yet available | not yet available | not yet available |
 | 07 | [Lab 07 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) | not yet available | not yet available | not yet available |
