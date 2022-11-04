@@ -109,3 +109,5 @@ Calendar](https://thomaselove.github.io/431-2022/calendar.html).
 All students completing Lab X successfully (Dr. Love has to be able to
 open your website and read its contents) will receive a substantial
 boost to their Class Participation Grade.
+
+Student websites from our current class will be [posted here](labXwebsites.md)
