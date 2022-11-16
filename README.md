@@ -10,7 +10,6 @@ Lab information for 431 in Fall 2022
 
 | Lab | Instructions (pdf) | Data for Download | Template |
 | :---: | :---: | :---: | :---: |
-| 06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | [lab05_lind.Rds](https://github.com/THOMASELOVE/431-data/raw/main/lab05_lind.Rds) | -- |
 | 07 | [Lab 07 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) | [lab07_trial.xls](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/lab07_trial.xls) (updated 2022-11-01) | -- |
 
 - In case you need them, here are the [Lab 02 Template](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/YOURNAME-lab02.Rmd) and the [Lab 03 Template](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/YOURNAME-lab03.Rmd).
@@ -52,7 +51,7 @@ Labs 1-7 are graded by the TAs and then reviewed by Dr. Love. Your grades will b
 | 03 | [Lab 03 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
 | 04 | [Lab 04 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab04.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
 | 05 | [Lab 05 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab05.pdf) | see Shared Google Drive | see Shared Google Drive | see [Grades Roster](https://bit.ly/431-grades-2022) |
-| 06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | to be posted 2022-11-16 | to be posted 2022-11-16 | to be posted 2022-11-28 |
+| 06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | see Shared Google Drive | see Shared Google Drive | to be posted 2022-11-28 |
 | 07 | [Lab 07 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab07.pdf) | to be posted 2022-11-29 | to be posted 2022-11-29 | to be posted 2022-12-05 |
 
 As each Lab passes its deadline (as listed in the [Course Calendar](https://thomaselove.github.io/431-2022/calendar.html)), we will add information here on how you can obtain the answer sketch (usually available within 24 hours of the deadline), as well as grades and the grading rubric (usually available one week after the deadline.)
@@ -82,6 +81,7 @@ The [Lab Regrade Request Form](https://bit.ly/431-2022-lab-regrade-requests) is 
 03 | [Lab 03 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab03.pdf) | [lab03_counties.csv](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/lab03_counties.csv) | [Lab 03 Template](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/YOURNAME-lab03.Rmd) |
 04 | [Lab 04 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab04.pdf)
 05 | [Lab 05 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab05.pdf) | [lab05_counties.csv](https://raw.githubusercontent.com/THOMASELOVE/431-data/main/lab05_counties.csv), [lab05_lind.Rds](https://github.com/THOMASELOVE/431-data/raw/main/lab05_lind.Rds) 
+06 | [Lab 06 Instructions](https://github.com/THOMASELOVE/431-labs-2022/blob/main/lab06.pdf) | [lab05_lind.Rds](https://github.com/THOMASELOVE/431-data/raw/main/lab05_lind.Rds) | -- |
 
 
 [Click here](https://thomaselove.github.io/431-2022/) to return to the main website for the course.
