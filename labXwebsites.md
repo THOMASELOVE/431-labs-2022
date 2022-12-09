@@ -7,3 +7,4 @@
 5. Xinyu Sun's [The Game Awards 2022 Predictions](https://xinyusun.quarto.pub/the-game-awards-2022-prediction/)
 6. [Moein Amin](https://moeinamin.wordpress.com/)
 7. [Naveen Kannan](https://naveenkannan.netlify.app/)
+8. [Chris Benson II](https://chrisbensonii.com/)
