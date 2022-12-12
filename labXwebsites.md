@@ -21,6 +21,9 @@
 17. [Sarah Grabinski](https://sarah-grabinski.github.io/)
 18. [Kimberly Han (Robbins)](https://strong-elf-9e9b15.netlify.app/)
 19. [Karlo Toljan](https://kxt2.wordpress.com/)
+20. [Hala Nas](https://halanass29.wixsite.com/hala-nas)
+21. [Tian Liu](https://tliu.quarto.pub/tliu/)
+22. [Lydia Masar](https://lmasar.quarto.pub/_lydia-masars-portfolio_/)
 
 ## Received between the early and the late deadline (2022-12-19 at noon)
 
