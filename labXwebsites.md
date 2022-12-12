@@ -19,7 +19,8 @@
 15. [Isabella Genuario](https://icg941.wixsite.com/isabella-genuario)
 16. [Max Tjen](https://mkt3874.wixsite.com/mtjen)
 17. [Sarah Grabinski](https://sarah-grabinski.github.io/)
-18. Kimberly Han (Robbins) completed the work, but is having deployment issues, so we'll update the link later.
+18. [Kimberly Han (Robbins)](https://strong-elf-9e9b15.netlify.app/)
+19. [Karlo Toljan](https://kxt2.wordpress.com/)
 
 ## Received between the early and the late deadline (2022-12-19 at noon)
 
