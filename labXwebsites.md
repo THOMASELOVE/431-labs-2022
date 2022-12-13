@@ -1,6 +1,6 @@
 # Websites (Lab X) for Students in 431, Fall 2022
 
-Last Update: 2022-12-12 at 6:17 AM
+Last Update: 2022-12-13 at 7:30 AM
 
 ## Received before the early deadline (2022-12-12 at noon)
 
@@ -29,3 +29,5 @@ Last Update: 2022-12-12 at 6:17 AM
 
 ## Received between the early and the late deadline (2022-12-19 at noon)
 
+23. [Pedram Golnari](https://pgolnari.netlify.app/)
+24. [Fang Wang](https://fang-wang.quarto.pub/fang-wang-website/)
