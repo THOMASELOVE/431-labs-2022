@@ -31,3 +31,4 @@ Last Update: 2022-12-13 at 7:30 AM
 
 23. [Pedram Golnari](https://pgolnari.netlify.app/)
 24. [Fang Wang](https://fang-wang.quarto.pub/fang-wang-website/)
+25. [Tarek ElShebiny](https://fascinating-muffin-ba005e.netlify.app/)
