@@ -10,3 +10,22 @@ Use any software to produce your Word document, Google Doc, or PDF submission, a
 
 This Lab is optional, and is designed to give you all a chance to weigh in on something you've learned without too much time pressure.
 
+## Submissions
+
+I received Lab Y from the following students. Some of the topics below (those which I've italicized) were in fact discussed in class and in our notes, but most weren't, and this is a useful reminder for me about things that I can emphasize more.
+
+1. Lithe Basbous (Simpson's Paradox)
+2. Chris Benson (Algorithms for Unsupervised Learning)
+3. Yinglung Geng (*PPDAC*)
+4. Isabella Genuario (Simpson's Paradox)
+5. Sarah Grabinski (*Problems with Overly Complex Models*)
+6. Lent Mantshonyane (*Framing results*)
+7. Lydia Masar (Fabrication vs. Distortion)
+8. Emiko Miller (Poisson distribution)
+9. Sid Mittal (Sensitivity analyses)
+10. Kimberly Robbins (*Type I and Type II error*)
+11. Max Tjen (*Overfitting a model*)
+12. Karlo Toljan (Ethical issues)
+13. Savannah Wu (*PPDAC*)
+14. Millenia Zhou (*Using models to explain how the world works*)
+
