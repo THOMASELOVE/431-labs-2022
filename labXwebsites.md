@@ -33,3 +33,6 @@ Last Update: 2022-12-18 at 7:40 AM
 24. [Fang Wang](https://fang-wang.quarto.pub/fang-wang-website/)
 25. [Tarek ElShebiny](https://tarekwebpage.netlify.app/)
 26. [Savannah Wu](https://savannahwu.owlstown.net/)
+27. [Lent Mantshonyane](https://lentlametse.quarto.pub/lent-mantshonyanes-blog/)
+
+
